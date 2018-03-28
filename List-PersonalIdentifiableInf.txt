@@ -1,0 +1,66 @@
+Personally Identifiable Information (PII)
+•    Full Name
+•    Email address
+•    Home address
+•    Data of Birth
+•    Ethnicity / Race
+•    Gender
+•    National ID numbers / Social security number 
+•    Passport number
+•    Visa permits number
+•    Driver's license number
+•    Vehicle registration plate number
+•    Disability information
+•    Location information
+•    What you are doing when / status
+•    Events attended
+•    Status
+•    Sexual orientation
+•    Education and employment history
+•    Grades 
+•    Salary
+•    Job position / title
+•    Photos
+•    Anything commercially sensitive 
+•    Political and religious leanings and affiliation
+•    Views on controversial issues
+•    History / background 
+•    Mother maiden name
+•    Place of birth
+•    Genetic information
+•    Insurance details
+•    Medical information
+•    Criminal record
+•    Credit score / record
+•    Sites registered on
+
+Interconnections
+•    Work details – (Company name, address, colleagues)
+•    Family members
+•    Dependents
+•    Spouses / Partners
+•    Friends
+•    Associates
+
+Authentication Details
+•    Usernames / Screen names / aliases 
+•    Email address
+•    Passwords
+•    Digital identity
+•    Bio-metric data – Retina, face, fingerprints, handwriting
+•    Security tokens
+•    Password hashes
+•    Cookies
+•    Session information and tokens e.g. JSESSIONID
+
+Mobile / Phones / Laptop / Devices
+•    MSISDN
+•    IMSI
+•    Mobile number
+•    Home phone number
+•    Browser
+•    GUID
+•    Operating systems
+•    IP address
+•    MAC address
+•    Hardware serials
